@@ -41,14 +41,24 @@ R2=39 KΩ
 
   **CIRCUIT DIAGRAM**
 
+<img width="392" height="232" alt="image" src="https://github.com/user-attachments/assets/d72e843f-c7c4-4f8c-9ddf-414aeb0c4f71" />
+
 
   **MODEL GRAPH:**
 
+<img width="452" height="247" alt="image" src="https://github.com/user-attachments/assets/09e97219-3d8b-4520-bc55-c556140072f8" />
 
-  **TABULATION:**
- 
 
-**MODEL CALCULATION:**
+  **TABULATION:**  
+
+  <img width="1600" height="1072" alt="image" src="https://github.com/user-attachments/assets/5a8cb5ad-0a74-4204-9784-2421da89e2f9" />
+
+
+
+
+**GRAPH**  
+
+<img width="926" height="1599" alt="image" src="https://github.com/user-attachments/assets/0c52de7a-5dc0-4aaa-8826-058bd215eba4" />
 
 
 
